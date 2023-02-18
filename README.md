@@ -9,6 +9,7 @@
 ![проект](https://github.com/akinya1974/8.2.-DevOps.-I-D/blob/main/jepeg/Проект%20простой.jpg)
 ![Сборка](https://github.com/akinya1974/8.2.-DevOps.-I-D/blob/main/jepeg/Сборка.jpg)
 ![Ошибка](https://github.com/akinya1974/8.2.-DevOps.-I-D/blob/main/jepeg/Ошибка.jpg)
+![Сеть](https://github.com/akinya1974/8.2.-DevOps.-I-D/blob/main/jepeg/Сеть.jpg)
 
 ## Задача-2
 
